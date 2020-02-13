@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912306643654",
+    "firebase_url": "https://blood-sharing-eeea5.firebaseio.com",
+    "project_id": "blood-sharing-eeea5",
+    "storage_bucket": "blood-sharing-eeea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912306643654:android:599069433bb597a1bdadc7",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912306643654-k2nprs3ufku59b0euv7nd8i1hkjo870t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otp_auth_firebase",
+            "certificate_hash": "11b3b7ddc240fa3dbb26d0ae5a4f2ea63f3efbc2"
+          }
+        },
+        {
+          "client_id": "912306643654-fkaeo0193jhbkblgas6q8e8fioar1358.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWX--zfC9RRB_tMtMXJ1QVzsg36Q9E5d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912306643654-fkaeo0193jhbkblgas6q8e8fioar1358.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
